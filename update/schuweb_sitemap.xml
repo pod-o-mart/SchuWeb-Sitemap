@@ -22,7 +22,7 @@
         <name>SchuWeb Sitemap</name>
         <description>SchuWeb Sitemap - Sitemap Generator for Joomla!</description>
         <element>com_schuweb_sitemap</element>
-        <type>component</type>
+        <type>package</type>
         <version>3.0.0</version>
         <infourl title="SchuWeb Sitemap 3.0.0">https://extensions.schultschik.com/products/schuweb-sitemap/schuweb-sitemap-3-0-0</infourl>
         <downloads>
